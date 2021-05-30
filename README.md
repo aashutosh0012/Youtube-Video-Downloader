@@ -4,11 +4,11 @@ Download Videos from Youtube to your local system.
 This Program uses [Pytube](https://pytube.io/en/latest/index.html) Library to download videos from Youtube.
 
 
-![image](https://user-images.githubusercontent.com/21958711/120100479-996bd680-c15e-11eb-99d6-a7ab9b8e04ef.png)
+![image](https://user-images.githubusercontent.com/21958711/120100778-38450280-c160-11eb-9945-983bee408cfb.png)
 
 Enter URL of the Youtube Video & hit Find.
 
-![image](https://user-images.githubusercontent.com/21958711/120100487-a7215c00-c15e-11eb-89b7-a502d9d85cda.png)
+![image](https://user-images.githubusercontent.com/21958711/120100788-4d219600-c160-11eb-948d-a210f4ca2e7f.png)
 
 App Searches for the Video and provides a Dropdown button to Select available Resolution and a Download Button.
 After Video gets downloaded, it displays the File Path and Name.
