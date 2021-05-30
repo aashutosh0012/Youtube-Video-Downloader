@@ -1,7 +1,7 @@
 # Youtube-Video-Downloader
 Download Videos from Youtube to your local system.
 
-This Program uses **[Pytube](https://pytube.io/en/latest/index.html)** Library to download videos from Youtube, **tkinter** to diplay Graphical Window..
+This Program uses **[Pytube](https://pytube.io/en/latest/index.html)** Library to download videos from Youtube and **tkinter** to diplay Graphical Window..
 
 
 ![image](https://user-images.githubusercontent.com/21958711/120100778-38450280-c160-11eb-9945-983bee408cfb.png)
